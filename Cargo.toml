@@ -1,0 +1,19 @@
+[package]
+name = "mole_rancher"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# Add optimisation in debug mode
+[profile.dev]
+opt-level = 1
+
+# Enable optimisation just for dependencies e.g. Bevy
+[profile.dev.package."*"]
+opt-level = 3
+
+[dependencies]
+bevy = "0.8.0"
+bevy-inspector-egui = "0.12.1"
+rand = "0.8.5"
