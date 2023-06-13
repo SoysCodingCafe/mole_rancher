@@ -5,7 +5,7 @@ Source code contained is in same condition as when game jam was submitted.
 
 
 
-Game can be played at: https://infinitefall.itch.io/mole-rancher
+Game can be played at: https://soyscodingcafe.itch.io/mole-rancher
 
 
 
@@ -13,7 +13,7 @@ CREDITS
 
 Dev Team:
 
-InfiniteFall - Programmer / Cursed Code
+SoysCodingCafe - Programmer / Cursed Code
 
 Ogelnac - Assets / Art
 
